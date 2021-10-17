@@ -1,0 +1,29 @@
+.main{
+    width: 40%;
+
+    margin: 100px auto 0px auto;
+    text-align: center;
+    box-shadow: 5px 6px 12px gray;
+
+}
+
+.main h2{
+    text-align: center; 
+    background-color: teal;
+}
+
+.main h3{
+    text-align: center;
+    background-color: rgb(196, 8, 8);
+    margin-top: -4px;
+}
+
+
+.main img{
+    width: 100%;
+    margin-top: -20px;
+}
+
+.button{
+    margin-bottom: 10px;
+}
